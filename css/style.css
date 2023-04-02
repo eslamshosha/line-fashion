@@ -1,13 +1,5 @@
-@font-face {
-  font-family: "SSTArabic";
-  src: url("../webfonts//Montserrat/Montserrat-Arabic-Regular.woff2") format("woff2"),
-    url("../webfonts/Montserrat/Montserrat-Arabic-Regular.woff") format("woff"),
-    url("../webfonts/Montserrat/Montserrat-Arabic-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-}
 body {
-  font-family: "Montserrat";
+  font-family: "sans-serif";
   box-sizing: border-box;
   margin: 0;
   padding: 0;
