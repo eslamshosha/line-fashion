@@ -22,10 +22,6 @@ body {
   height: 100%;
 }
 @media (max-width: 767px) {
-  .slide-img {
-    height: 100vh;
-    height: calc(var(--vh, 1vh) * 100);
-  }
   .slide-img img{
     object-fit: contain;
   }
